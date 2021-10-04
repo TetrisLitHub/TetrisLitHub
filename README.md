@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there :)
 
-<!--
-**TetrisLitHub/TetrisLitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a person who's interested in programming, and making and breaking things.
 
-Here are some ideas to get you started:
+### Current projects
+- T-Hack, a minecraft hack client that is added via a forge mod
+- My website, TetrisLitHub.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project ideas
+- {UNNAMED}, an autoclicker that can attatch itself to any process through DLL injection. It will have a variable CPS in order to bypass anticheats and avoid problems.
+
+### Finished projects/projects no longer in development
+- DLLinjector, a very simple lightweight DLL injector I created using the C++ windows library
