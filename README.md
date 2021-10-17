@@ -11,6 +11,7 @@ I am a person who's interested in programming, and making and breaking things.
 - {UNNAMED}, an autoclicker that can attatch itself to any process through DLL injection. It will have a variable CPS in order to bypass anticheats and avoid problems.
 - Integrate T-Hack with the PanelStudio library by lukflug
 - Basic web chat room in java using websockets
+- Jalaga, a library for writing Bullet Hell games in Java using LWJGL. I likely won't have time to do this unless i get help from other people.
 
 ### Finished projects/projects no longer in development
 - DLLinjector, a very simple lightweight DLL injector I created using the C++ windows library
