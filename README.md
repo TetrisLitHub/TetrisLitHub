@@ -17,3 +17,7 @@ I am a person who's interested in programming, and making and breaking things.
 ### Finished projects/projects no longer in development
 - DLLinjector, a very simple lightweight DLL injector I created using the C++ windows library
 - T-hack will likely not be continued for much longer unless there's enough support. I don't really have as much of an interest in it as i do for other things, and I don't have enough time to write mods either.
+
+### What I'm learning
+- Rust (heard about it while researching C++, got super sidetracked and now I'm more interested in Rust than C++)
+- Assembly (learning it for making a bootable rust program)
