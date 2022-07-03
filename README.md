@@ -25,4 +25,3 @@ I don't really use GitHub often so i'm a lot more active than I appear.
 - Assembly (learning it for making a bootable rust program)
 - Data analysis and prediction with numpy, scikit, matplotlib, and pandas
 
-![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)
