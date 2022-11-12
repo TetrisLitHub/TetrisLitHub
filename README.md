@@ -1,30 +1,36 @@
-# Hello there :)
+# Hello :)
 
-I am a person who's interested in programming and understanding how/why things work.
+I am a person who's interested in understanding how/why things work.
 Though I enjoy programming, I don't really use GitHub often so I don't show all my projects. My favorite programming languages so far are Rust, Python, and Java. I want to learn more about embedded and low-level programming in the future.
 
 ### Current projects
-- T-Hack, a minecraft hack client/mod that is added via a forge mod
-  - T-Hack 0.1.2 will likely be released by November, now with Discord RPC, a command handler, and the ability to save/load configuration files as well as a few small additions so stay tuned for updates! Progress will be slower from now on due to more IRL stuff going on
-  - 2022 update: I got bored of modding video games, unless i get more support I'm only releasing 0.2.0 then stopping
-  - also really not interested in the community that I originally built this mod for because it's a bit repulsive
-- My website, TetrisLitHub.github.io
-- playing around with Rust and Assembly for low level/bootable code (potentially a full OS) (my favorite project so far!)
-- playing around with DLL/code injection in Rust, it's fun but it feels kinda icky to write since i'm doing so many weird operations
-- Java/Kotlin websocket chatroom (probably not gonna do this since i have nowhere to host servers and i'm more interested in low-level now)
-- I've been messing around with the Godot engine and GDscript, it's teaching me a lot about how action listeners work
+- Working on OS development using Assembly and Rust (probably my favorite/most active project so far)
+- tetrislithub.github.io is where my "website" is that I mostly use for practicing html and js
+
+### What I'm Learning
+- Rust (heard about it while researching C++, got super sidetracked and now I'm more interested in Rust than C++)
+- Data analysis, neural networks, and prediction in python using numpy, scikit, matplotlib, and pandas
+- Kotlin and Java
+- Godot engine and GDscript, it's teaching me a lot about how action listeners work
+  - in a similar vein, LibGDX
+- playing around with DLL/code injection in Rust, it's fun but it feels odd to write since i'm doing so many weird operations
+- going to learn Visual Basic later
 
 ### Project ideas
-- Build an autoclicker or keyboard/mouse control thing
-- Platformer game in LibGDX
-- Continue learning Godot
+- an autoclicker or keyboard/mouse control thing
+- learning how to handle microphone and camera input and screen-recording
+- IPC/RPC library for Rust
+- build a mini programming language by coding an interpreter
+- Memory hacking and DLL injection
+- Anticheats in Rust
+- Building games in Godot and LibGDX
+  - Platformer games
+  - maybe a FNAF style game?
+- Simulating physics in 2d (inspired by [AngeTheGreat's engine simulator](https://github.com/ange-yaghi/engine-sim))
+- learn VST3 someday
 
-### Finished projects/projects no longer in development
-- DLLinjector - a very simple lightweight DLL injector I created using the C++ windows library
-- T-hack will likely not be continued for much longer unless there's enough support. I don't really have as much of an interest in it as i do for other things, and I don't have enough time to write mods either.
-
-### What I'm learning
-- Rust (heard about it while researching C++, got super sidetracked and now I'm more interested in Rust than C++)
-- Assembly (learning it for making a bootable rust program)
-- Data analysis and prediction in python, with numpy, scikit, matplotlib, and pandas
-
+### Finished and scrapped projects
+- Worked on the website for BinaryHeart: www.binaryheart.org
+- DLLinjector, a very simple lightweight DLL injector I created using the C++ windows library
+- T-hack is no longer in development due to me losing interest in minecraft modding and the community I built the mod for. I completed part of 0.2.0 (which added Discord RPC, a command handler, the ability to save/load configuration files, and a few other things) so those commits are in the repository. So if you have gradle, you can build the most up-to-date version yourself.
+- Java/Kotlin websocket chatroom, scrapped because I had nowhere to host the server and the clientside internet connection sometimes auto-blocked the incoming messages.
